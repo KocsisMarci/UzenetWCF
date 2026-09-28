@@ -1,0 +1,2 @@
+# UzenetWCF
+Projekt feladat.
